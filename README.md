@@ -12,7 +12,7 @@
 
 ## 程式如何安裝執行(圖文講解):
 
-## 程式畫面截圖:[contributor guide index]([程式畫面截圖](https://github.com/B2230017/game/tree/cff8024c16cfe86a3f32b73aecad7e69e4e7d1da/%E7%A8%8B%E5%BC%8F%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96)).
+## 程式畫面截圖:
 
 ## 分工資訊：
 
