@@ -10,7 +10,7 @@
 
 ## 程式如何安裝執行(圖文講解):
 
-## 程式畫面截圖:
+## 程式畫面截圖:For more information, see the [contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
 
 ## 分工資訊：
 
