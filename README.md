@@ -16,7 +16,7 @@ ex.正確答案是3695，而你輸入1386那就會顯示0A2B
 
 ## 程式如何安裝執行(圖文講解):
 
-下載visual studio 2022接著開啟1A2B裡的.sln檔案按下執行即可
+在瀏覽器下載Visual Studio 2022接著在Visual studio installer下載C++功能，然後複製1A2B檔案到自己電腦裡再點開.sln檔並執行即可。
 
 ## 程式畫面截圖:
 
